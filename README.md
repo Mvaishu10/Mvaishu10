@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mvaishu10
 - 👀 I’m interested in coding
 - 🌱 I’m currently pursuing IT Enginnering
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on web Devlopment Projects
 - 📫 How to reach me @mvaishu_10 
 
 <!---
